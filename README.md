@@ -26,6 +26,8 @@ I provide no guarentees that this package fits proper statistical robustness of 
 * Figure out how to calculate summary information, and refactor API to a scipi-like interface
 * Add a Multivariate Asymmetric Laplace distribution class
 
+## [Version History](./VersionHistory.md)
+
 ## License
 This project uses the GNU General Public License.
 
