@@ -162,4 +162,4 @@ cython_debug/
 
 
 ## Custom ignores
-*-dev.ipynb ## Development notebooks
+*-dev.ipynb
