@@ -1,3 +1,6 @@
+# In Progress
+* Converted to using Poetry for development/publication
+
 # v0.1.1 (2021/12/17)
 * Renamed repo.
 * Corrected `setup.py` classifiers.
