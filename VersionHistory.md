@@ -1,5 +1,7 @@
 # In Progress
 * Converted to using Poetry for development/publication
+* Added Pydantic input validation
+* Added unit tests
 
 # v0.1.1 (2021/12/17)
 * Renamed repo.
